@@ -4,7 +4,7 @@
 Este é o desafio tecnico 1 para a empresa Escribo.
 
 
-## Tecnologia
+## Linguagem
 
 
 - JavaScript
@@ -27,7 +27,7 @@ inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
 Na constante da linha 19 chamada IntNumber coloque o numero que deseja.
 
 ```bash
-const IntNumber = 33; // Você pode alterar o número aqui
+const IntNumber = 33 // Você pode alterar o número aqui
 ```
 
 
